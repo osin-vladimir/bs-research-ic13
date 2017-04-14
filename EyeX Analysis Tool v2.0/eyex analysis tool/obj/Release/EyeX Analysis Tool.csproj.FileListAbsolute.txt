@@ -1,0 +1,8 @@
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\bin\Release\EyeX Analysis Tool.exe.config
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\bin\Release\EyeX Analysis Tool.exe
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\bin\Release\EyeX Analysis Tool.pdb
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Release\EyeX_Analysis_Tool.Main.resources
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Release\EyeX_Analysis_Tool.Properties.Resources.resources
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Release\EyeX Analysis Tool.csproj.GenerateResource.Cache
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Release\EyeX Analysis Tool.exe
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Release\EyeX Analysis Tool.pdb

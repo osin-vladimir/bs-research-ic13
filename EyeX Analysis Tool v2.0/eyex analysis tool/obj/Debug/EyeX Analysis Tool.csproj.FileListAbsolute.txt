@@ -1,0 +1,45 @@
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\obj\Debug\EyeX_Analysis_Tool.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\obj\Debug\EyeX_Analysis_Tool.Main.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.pdb
+\\Mac\Home\Desktop\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.exe.config
+\\Mac\Home\Desktop\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.exe
+\\Mac\Home\Desktop\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.pdb
+\\Mac\Home\Desktop\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.exe
+\\Mac\Home\Desktop\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.pdb
+\\Mac\Home\Desktop\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\EyeX Analysis Tool\obj\Debug\EyeX_Analysis_Tool.Main.resources
+\\Mac\Home\Desktop\EyeX Analysis Tool\obj\Debug\EyeX_Analysis_Tool.Properties.Resources.resources
+\\Mac\Home\Desktop\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.csproj.GenerateResource.Cache
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.exe.config
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.exe
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.pdb
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.exe
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\bin\Debug\EyeX Analysis Tool.pdb
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Debug\EyeX_Analysis_Tool.Main.resources
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Debug\EyeX_Analysis_Tool.Properties.Resources.resources
+\\Mac\Dropbox\WAFT (1)\app\EyeX Analysis Tool v2.0\EyeX Analysis Tool\obj\Debug\EyeX Analysis Tool.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\bin\Debug\EyeX Analysis Tool.exe.config
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX Analysis Tool.exe
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX Analysis Tool.pdb
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\bin\Debug\EyeX Analysis Tool.exe
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\bin\Debug\EyeX Analysis Tool.pdb
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX Analysis Tool.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX_Analysis_Tool.Main.resources
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX_Analysis_Tool.Properties.Resources.resources
+C:\Users\Владимир\Desktop\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX Analysis Tool.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\bin\Debug\EyeX Analysis Tool.exe.config
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\bin\Debug\EyeX Analysis Tool.exe
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\bin\Debug\EyeX Analysis Tool.pdb
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX Analysis Tool.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX_Analysis_Tool.Main.resources
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX_Analysis_Tool.Properties.Resources.resources
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX Analysis Tool.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX Analysis Tool.exe
+C:\Users\Владимир\Desktop\EyeX-master\EyeX-master\source_code\EyeX Analysis Tool v2.0\eyex analysis tool\obj\Debug\EyeX Analysis Tool.pdb
