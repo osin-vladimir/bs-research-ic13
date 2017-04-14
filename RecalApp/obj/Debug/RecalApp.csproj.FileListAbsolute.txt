@@ -1,0 +1,3 @@
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\RecalApp\bin\Debug\RecalApp.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\RecalApp.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\RecallApp.exe.config

@@ -1,0 +1,68 @@
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\RecallApp.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\RecallApp.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\RecallApp.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\EyeXFramework.dll
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\itextsharp.dll
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\EyeXFramework.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\bin\Debug\itextsharp.xml
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\obj\Debug\RecallApp.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\obj\Debug\RecallApp.csproj.RecallApp.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\obj\Debug\RecallApp.Analysis.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\obj\Debug\RecallApp.EyeX.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\obj\Debug\RecallApp.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\obj\Debug\RecallApp.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\obj\Debug\RecallApp.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Recall\RecalApp\obj\Debug\RecallApp.pdb
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\bin\Debug\RecallApp.exe.config
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\obj\Debug\RecallApp.exe
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\obj\Debug\RecallApp.pdb
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\bin\Debug\RecallApp.exe
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\bin\Debug\RecallApp.pdb
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\bin\Debug\EyeXFramework.dll
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\bin\Debug\itextsharp.dll
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\bin\Debug\EyeXFramework.pdb
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\bin\Debug\itextsharp.xml
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\obj\Debug\RecallApp.csprojResolveAssemblyReference.cache
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\obj\Debug\RecallApp.csproj.RecallApp.exe.config
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\obj\Debug\RecallApp.Analysis.resources
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\obj\Debug\RecallApp.EyeX.resources
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\obj\Debug\RecallApp.Properties.Resources.resources
+F:\Dropbox\app_dev\wAFT Research\recall\source_code\RecalApp\obj\Debug\RecallApp.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\RecallApp.exe.config
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.exe
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.pdb
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.csproj.RecallApp.exe.config
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.Analysis.resources
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.EyeX.resources
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.Properties.Resources.resources
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\RecallApp.exe
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\RecallApp.pdb
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\EyeXFramework.dll
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\itextsharp.dll
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\EyeXFramework.pdb
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\itextsharp.xml
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\RecallApp.exe.manifest
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\bin\Debug\RecallApp.application
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.exe.manifest
+C:\Users\Владимир\Desktop\recall\source_code\RecalApp\obj\Debug\RecallApp.application
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\RecallApp.exe.config
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.exe
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.pdb
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.csprojResolveAssemblyReference.cache
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.csproj.RecallApp.exe.config
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.EyeX.resources
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.Properties.Resources.resources
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.csproj.GenerateResource.Cache
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\RecallApp.exe.manifest
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\RecallApp.application
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\RecallApp.exe
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\RecallApp.pdb
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\EyeXFramework.dll
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\itextsharp.dll
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\EyeXFramework.pdb
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\bin\Debug\itextsharp.xml
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.exe.manifest
+F:\Dropbox\app_dev\wAFT Research\recall_2\source_code\RecalApp\obj\Debug\RecallApp.application
