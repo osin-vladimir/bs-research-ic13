@@ -1,0 +1,13 @@
+C:\Users\Владимир\Desktop\TobiiEyeXSdk-DotNet-1.3.443\source\EyeXFramework\bin\x86\Debug\EyeXFramework.dll
+C:\Users\Владимир\Desktop\TobiiEyeXSdk-DotNet-1.3.443\source\EyeXFramework\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\Владимир\Desktop\TobiiEyeXSdk-DotNet-1.3.443\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Владимир\Desktop\TobiiEyeXSdk-DotNet-1.3.443\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Владимир\Desktop\TobiiEyeXSdk-DotNet-1.3.443\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\TobiiEyeXSdk-DotNet-1.3.443\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
+C:\Users\Владимир\Desktop\TobiiEyeXSdk-DotNet-1.3.443\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb
+C:\Users\Владимир\documents\visual studio 2015\Projects\EyeX_1.0\EyeXFramework\bin\x86\Debug\EyeXFramework.dll
+C:\Users\Владимир\documents\visual studio 2015\Projects\EyeX_1.0\EyeXFramework\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\Владимир\documents\visual studio 2015\Projects\EyeX_1.0\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Владимир\documents\visual studio 2015\Projects\EyeX_1.0\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\documents\visual studio 2015\Projects\EyeX_1.0\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
+C:\Users\Владимир\documents\visual studio 2015\Projects\EyeX_1.0\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb
